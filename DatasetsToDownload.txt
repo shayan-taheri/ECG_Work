@@ -1,0 +1,16 @@
+C:\Users\shaya\AppData\Local\VirtualStore\Program Files\Git\bin
+
+1) Normal:
+nsrdb                   MIT-BIH Normal Sinus Rhythm Database (584 MB)
+------------------------------------------------------------------------------
+Shayan: 2) ST:
+edb                     European ST-T Database
+------------------------------------------------------------------------------
+Milad: 3) AF:
+afdb                     MIT-BIH Atrial Fibrillation Database (607 MB)
+------------------------------------------------------------------------------
+Milad: 4) VF:
+vfdb                     MIT-BIH Malignant Ventricular Ectopy Database (33 MB)
+------------------------------------------------------------------------------
+5) General:
+mitdb                   MIT-BIH Arrhythmia Database (107 MB)

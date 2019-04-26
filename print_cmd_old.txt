@@ -1,0 +1,270 @@
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0103,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0104,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0105,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0106,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0107,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0108,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0110,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0111,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0112,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0113,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0114,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0115,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0116,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0118,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0119,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0121,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0122,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0123,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0124,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0125,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0126,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0127,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0129,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0133,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0136,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0139,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0147,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0148,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0151,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0154,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0155,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0159,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0161,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0162,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0163,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0166,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0170,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0202,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0203,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0204,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0205,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0206,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0207,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0208,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0210,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0211,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0212,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0213,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0302,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0303,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0304,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0305,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0306,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0403,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0404,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0405,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0406,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0408,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0409,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0410,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0411,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0413,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0415,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0417,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0418,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0501,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0509,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0515,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0601,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0602,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0603,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0604,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0605,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0606,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0607,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0609,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0610,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0611,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0612,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0613,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0614,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0615,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0704,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0801,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\ e0808,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0817,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e0818,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e1301,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e1302,'atr')
+print(ann.aux_note)
+
+ann = wfdb.rdann(r'C:\Users\shaya\Desktop\edb\e1304,'atr')
+print(ann.aux_note)
+

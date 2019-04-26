@@ -1,0 +1,15 @@
+afdb_text = 'C:\Users\shaya\Desktop\Signal_Text\afdb_texts';
+edb_text = 'C:\Users\shaya\Desktop\Signal_Text\edb_texts';
+vfdb_text = 'C:\Users\shaya\Desktop\Signal_Text\vfdb_texts';
+
+afdb_dir = dir(afdb_text);
+
+for ix = 3:length(afdb_dir)
+    Signal = importdata([afdb_text,'\',afdb_dir(ix).name]);
+    fig_id = figure(); plot(Signal);
+    saveas(fig_id,['C:\Users\shaya\Desktop\Signal_Text\Temp\Temp_Sig.png']);
+    Img1 = imread(['C:\Users\shaya\Desktop\Images\Temp\Rec',num2str(iz),'Data',num2str(iy),'Sig0',num2str(ix),'.png']);
+    Img2 = imcrop(Img1,[115 50 677 533]); % Size of Crop: [xmin ymin width height]
+    imwrite(Img2,[Image_Path,'\',Name,'\Rec',num2str(iz),'Data',num2str(iy)','Sig0',num2str(ix),'.png']);
+    close all; clc; fclose('all');
+end
